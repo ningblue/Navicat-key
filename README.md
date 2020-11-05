@@ -1,6 +1,8 @@
 # Navicat-key
 激活Windows 版的 Navicat 教程
 
+更好的阅读体验请前往： https://gitccl.github.io/Navicat-key/ 
+
 ## 首先从官网下载Navicat
 
 [下载地址]( https://www.navicat.com.cn/products ) 下载完安装即可
