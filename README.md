@@ -15,7 +15,7 @@
 
 ### 激活码
 
-打开cmd, 进入刚刚解压的路径，我解压的路径是 `D:\navicat-keygen-for-x64` 。
+打开cmd, 或者 使用管理员模式的 ps 都可以  ,  进入刚刚解压的路径，我解压的路径是 `D:\navicat-keygen-for-x64` 。
 
 然后执行命令 `navicat-patcher.exe "E:\Navicat Premium 15"` 
 
